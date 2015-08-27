@@ -6,7 +6,7 @@ Step 1: Identify the problems
 Step 2: Create solutions
 Step 3: Create wire-frames of new structure and content 
 
-Step 1 & 2
+# Step 1 & 2
 
 Problem: Don’t know what FakeBank is when you first visit the homepage.
 Solution: Change the language of the hero image to introduce the user to FakeBank in one sentence. Also create a call to action to guide the user to start the application process.
