@@ -4,7 +4,7 @@ Step 1: Identify the problems
 
 Step 2: Create solutions
 
-Step 3: Create wire-frames of new structure and content 
+Step 3: Create wireframe of new structure and content 
 
 # Steps 1 & 2
 
