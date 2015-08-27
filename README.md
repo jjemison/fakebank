@@ -30,7 +30,8 @@ Problem: Weak Testimonial from John Smith
 Solution: Added a stronger testimonial, added why he is thanking FakeBank. Additionally, gave testimonials their own section to make it appear there is more info on the page
 
 Problem: Submit button under Pre-Approved form same color as background
-Solution: Have a clear submit button that is a different color that the background 
+Solution: Have a clear submit button that is a different color than the background 
 
 Step 3
+
 Wireframe: https://gomockingbird.com/projects/99vzcwt/yyvwrb
