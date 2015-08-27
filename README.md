@@ -12,9 +12,9 @@ Problem: Don’t know what FakeBank is when you first visit the homepage.
 
 Solution: Change the language of the hero image to introduce the user to FakeBank in one sentence. Also create a call to action to guide the user to start the application process.
 
-Problem: No what next or call to action when first visit homepage.
+Problem: No direction on what to do next when first visit homepage.
 
-Solution: Create a call to action guide the user to start application process. Additionally, allow FakeBank to capture the customers contact info to continue to selling them on the using FakeBank through email or call.   
+Solution: Create a call to action that will guide the user to start application process. Additionally, allow FakeBank to capture the customers contact info.   
 
 Problem: Redundancies with about and contact pages
 
@@ -22,7 +22,7 @@ Solution: Remove independent pages for contact and about and instead integrate t
 
 Problem: Text under icons have underline
 
-Solution: Users associate text with an underline as clickable link, to eliminate confusion I removed  the underline under text 
+Solution: Users associate text with an underline as clickable link, to eliminate confusion I removed  the underline under the text 
 
 Problem: About us is at the bottom of the homepage
 
