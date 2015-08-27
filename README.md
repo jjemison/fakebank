@@ -1,12 +1,10 @@
 # fakebank
 
-Problems and Solutions with current UX 
-
 Step 1: Identify the problems
 Step 2: Create solutions
 Step 3: Create wire-frames of new structure and content 
 
-# Step 1 & 2
+# Steps 1 & 2
 
 Problem: Don’t know what FakeBank is when you first visit the homepage.
 Solution: Change the language of the hero image to introduce the user to FakeBank in one sentence. Also create a call to action to guide the user to start the application process.
@@ -32,6 +30,6 @@ Solution: Added a stronger testimonial, added why he is thanking FakeBank. Addit
 Problem: Submit button under Pre-Approved form same color as background
 Solution: Have a clear submit button that is a different color than the background 
 
-Step 3
+# Step 3
 
 Wireframe: https://gomockingbird.com/projects/99vzcwt/yyvwrb
